@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **rtw-Git/rtw-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## SNS별 코로나 백신 부작용 분석
+- Outlier 2기 말하는 감자 프로젝트
 - 네이버 블로그를 담당
 - 수집, 전처리, 시각화, 분석 모든 과정을 진행

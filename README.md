@@ -47,7 +47,7 @@ CNN 기반의 전이학습을 이용한 거북목 자세 판별 시스템|2022.0
 
 
 ### 👩‍💻 Coding Study
-___
+___ 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rtw0203)](https://solved.ac/rtw0203)
 
